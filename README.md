@@ -1,9 +1,12 @@
-# Desert Thunder (Owais J.)
+# Owais J
 
-⚡ Hello from Austin!
+Hello from Austin!
 
-I’m currently working on a data dashboard for Baseball stats while also learning how to write R to 
-supplement my Python data analysis knowledge. I'm also learning Lua to tweak my NeoVim configuration.
+I'm currently working on an [organizer app](https://github.com/desertthunder/spotify-dashboard)
+for Spotify.
+
+Right now I'm learning how to write R and use the tidyverse to supplement my data
+analysis knowledge as well as Lua to tweak my NeoVim configuration.
 
 ## Languages
 
@@ -16,13 +19,13 @@ supplement my Python data analysis knowledge. I'm also learning Lua to tweak my 
 ### Web Development Stack
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Currently Learning
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
 ## Tools
 
