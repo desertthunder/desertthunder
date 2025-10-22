@@ -1,0 +1,132 @@
+================================================================================
+Owais Jamil
+Software Engineer
+Austin, TX - jamil.owais <at> gmail [dot] com - (512) 919-9153
+github.com/desertthunder
+================================================================================
+
+RELEVANT EXPERIENCE
+
+--------------------------------------------------------------------------------
+STORMLIGHT LABS                                                       AUSTIN, TX
+Founder and Lead Software Engineer                                2024 - Present
+
+* Lead engineer and founder of mental-health and open-source focused startup,
+  driving end-to-end product design by translating complex technical
+  requirements into intuitive user experiences and scalable solutions informed
+  by market research
+
+* Building multi-platform applications using modern and high-performant
+  tooling such as Svelte, Rust, Golang and Flutter, as well as internal tools
+
+    * Volkara (volkara.stormlightlabs.org): an ADHD focused productivity
+    application
+
+--------------------------------------------------------------------------------
+EDLINK                                                                AUSTIN, TX
+Senior Software Engineer                                     May 2023 - Jul 2024
+
+* Technical lead and project manager for Flow, a data pipeline connecting LMS
+  to SIS providers for schools
+
+* Adapted new data model to the API, as well as connectors for new
+  integrations
+
+* Built and designed novel system architecture around PubSub and BigQuery, and
+  Cloud functions
+
+* NestJS (with TypeScript) and Postgres in a Kubernetes cluster on GCP with
+  Redis. The dashboard is built with Vue
+
+--------------------------------------------------------------------------------
+CAMPUSOPTICS                                                          AUSTIN, TX
+Software Engineer                                            Mar 2022 - Mar 2023
+
+* Independently gathered requirements from customers and management to develop
+  new features, including a new dashboard, laying the groundwork for custom
+  dashboards for a higher education Environmental Health and Safety SaaS
+
+* Built features for a React Native application, while adding endpoints to the
+  internal API
+
+* Complete Stack: Web services made up of Redis for Sidekiq, a Ruby on Rails
+  monolith, and Postgres, were deployed to AWS's Elastic Container Service.
+  CloudWatch logs were regularly monitored to maintain system stability
+
+--------------------------------------------------------------------------------
+TEXAS ADVANCED COMPUTING CENTER                                       AUSTIN, TX
+Software Engineer                                            Oct 2019 - Mar 2022
+
+* Architected the Frontera User Portal, the first implementation of the Core
+  Experience Portal v2, with React, Django, and Postgres
+
+* Developed SEO optimization strategy and publication pipeline update on
+  DesignSafe-CI
+
+* Advocated for and improved internal testing practices and implemented Pytest
+  for Core V2
+
+================================================================================
+
+PROJECTS
+
+--------------------------------------------------------------------------------
+VoltX.JS                                          github.com/stormlightlabs/volt
+Lightweight Reactive Framework                     stormlightlabs.github.io/volt
+
+* Architected signal-based reactive framework (<15KB) enabling declarative
+  HTML-driven UIs without virtual DOM, published to npm and JSR with zero
+  dependencies
+
+* Implemented eval-free recursive descent expression parser supporting
+  operators, ternaries, and function calls with sandboxed execution
+
+* Built SSR/hydration layer with scope serialization and plugin architecture
+  for state persistence (localStorage/IndexedDB) and URL state sync
+
+* TypeScript, with Vite(rolldown)
+
+--------------------------------------------------------------------------------
+NOTELEAF                                      github.com/stormlightlabs/noteleaf
+Unified Personal Productivity CLI
+
+* Architected terminal-native productivity system combining task management,
+  note-taking, and media tracking with unified data model enabling cross-
+  domain references
+
+* Implemented repository pattern with SQLite persistence, handler layer with
+  Cobra CLI framework, and interactive TUIs using Bubble Tea state machines
+
+* Built article parser with Colly and goquery for web scraping, extracting
+  readable content with domain-specific XPath rules
+
+* Go 1.24, Charm.sh (Bubble Tea, Lipgloss), SQLite, Comprehensive test coverage
+
+================================================================================
+
+EDUCATION
+
+--------------------------------------------------------------------------------
+UNIVERSITY OF TEXAS AT AUSTIN                                         AUSTIN, TX
+
+Master of Science, Major in Computer Science                      2022 - Present
+Bachelor of Science, Major in Microbiology                           2015 - 2017
+Bachelor of Science, Major in Biochemistry                           2011 - 2015
+
+================================================================================
+
+SKILLS
+
+--------------------------------------------------------------------------------
+
+Languages:
+    Python, TypeScript/JavaScript, Ruby, Golang, SQL, Rust
+
+Technologies:
+    Django, React (& React Native), Vue, Rails, Docker, Kubernetes,
+    ElasticSearch, Postgres
+
+Professional Interests:
+    Linux, Software Architecture, R, F# and OCaml, Mobile Development, Svelte
+
+================================================================================
