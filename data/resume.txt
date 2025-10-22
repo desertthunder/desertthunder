@@ -11,16 +11,17 @@ RELEVANT EXPERIENCE
 STORMLIGHT LABS                                                       AUSTIN, TX
 Founder and Lead Software Engineer                                2024 - Present
 
-* Lead engineer and founder of mental-health and open-source focused startup,
-  driving end-to-end product design by translating complex technical
-  requirements into intuitive user experiences and scalable solutions informed
-  by market research
+* Lead Engineer of a mental health & open-source focused startup, architecting 
+  scalable systems and leading development from concept to production. 
 
-* Building multi-platform applications using modern and high-performant
-  tooling such as Svelte, Rust, Golang and Flutter, as well as internal tools
+* Translated complex technical and product requirements into intuitive, performant, 
+  and maintainable software solutions grounded in research and user feedback.
 
-    * Volkara (volkara.stormlightlabs.org): an ADHD focused productivity
-    application
+* Developed and optimized multi-platform applications and open-source libraries 
+  using Svelte, Rust, Go, and Flutter, applying modern software design patterns, 
+  concurrency models, and profiling for high reliability, and performance.
+
+  * See Volkara & VoltX for more details
 
 --------------------------------------------------------------------------------
 EDLINK                                                                AUSTIN, TX
@@ -71,6 +72,21 @@ Software Engineer                                            Oct 2019 - Mar 2022
 PROJECTS
 
 --------------------------------------------------------------------------------
+Volkara                                               volkara.stormlightlabs.org
+Cross-platform ADHD focused productivity app                    
+
+* Deployed a local-first SvelteKit application using PGlite and Drizzle, 
+  achieving sub-100 ms offline UX with deterministic data consistency.
+
+* Designed and implemented a premium sync engine with queued operations, SHA-256 
+  diffing, and a network-aware worker that batches, retries, and deduplicates 
+  requests for resilience.
+  
+* Unified observability across web and worker contexts via session-scoped & GDPR 
+  compliant telemetry persisted to IndexedDB and streamed to APIs for real-time 
+  diagnostics.
+
+--------------------------------------------------------------------------------
 VoltX.JS                                          github.com/stormlightlabs/volt
 Lightweight Reactive Framework                     stormlightlabs.github.io/volt
 
@@ -84,7 +100,11 @@ Lightweight Reactive Framework                     stormlightlabs.github.io/volt
 * Built SSR/hydration layer with scope serialization and plugin architecture
   for state persistence (localStorage/IndexedDB) and URL state sync
 
-* TypeScript, with Vite(rolldown)
+* Designed & implemented classless css library based on Edward Tufte's guidelines
+  and typography best practices
+
+* Dependency-free TypeScript codebase maintained with 95% test coverage and
+  automated registry publishing
 
 --------------------------------------------------------------------------------
 NOTELEAF                                      github.com/stormlightlabs/noteleaf
@@ -120,13 +140,13 @@ SKILLS
 --------------------------------------------------------------------------------
 
 Languages:
-    Python, TypeScript/JavaScript, Ruby, Golang, SQL, Rust
+  Python, TypeScript/JavaScript, Ruby, Golang, SQL, Rust
 
 Technologies:
-    Django, React (& React Native), Vue, Rails, Docker, Kubernetes,
-    ElasticSearch, Postgres
+  Django, React (& React Native), Vue, Rails, Docker, Kubernetes,
+  ElasticSearch, Postgres
 
 Professional Interests:
-    Linux, Software Architecture, R, F# and OCaml, Mobile Development, Svelte
+  Linux, Software Architecture, R, F# and OCaml, Mobile Development, Svelte
 
 ================================================================================
