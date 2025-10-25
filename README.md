@@ -11,6 +11,13 @@ helps people [take care](https://volkara.stormlightlabs.org) of themselves and e
 (with some libraries and developer [tools](https://github.com/stormlightlabs/volt)
 mixed in).
 
+Here are some open source libraries I maintain:
+
+| Project                                                | Release                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [VoltX](https://github.com/stormlightlabs/volt)        | [![NPM Version](https://img.shields.io/npm/v/voltx.js?style=flat&logo=npm&color=red)](https://www.npmjs.com/package/voltx.js) [![JSR Version](https://img.shields.io/jsr/v/%40voltx/core?style=flat&logo=jsr&logoColor=white&labelColor=black&color=yellow)](https://jsr.io/@voltx/core) |
+| [parserst](https://github.com/stormlightlabs/parserst) | [![Crates.io Version](https://img.shields.io/crates/v/parserst)](https://crates.io/crates/parserst)                                                                                                                                                                                      |
+
 #### Contact Information
 
 I'm currently seeking a new role! Check out my [resume](/data/resume.txt) and if you'd
@@ -18,10 +25,9 @@ like to chat, my email address is `jamil.owais <at> gmail [dot] com`.
 
 #### Current Projects
 
-- [YTX](https://github.com/desertthunder/ytx): Across-platform playlist migration tool
-enabling transfers between Spotify and YouTube Music with concurrent export processing
+- [Beacon](https://github.com/stormlightlabs/beacon): A Python LSP & HM type system built with Rust
 - [VoltX](https://github.com/stormlightlabs/volt): signal-based reactive framework (<15KB)
-  enabling declarative HTML-driven UIs
+    enabling declarative HTML-driven UIs
 
 #### Writing
 
