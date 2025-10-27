@@ -11,13 +11,15 @@ helps people [take care](https://volkara.stormlightlabs.org) of themselves and e
 (with some libraries and developer [tools](https://github.com/stormlightlabs/volt)
 mixed in).
 
-Here are some open source libraries I maintain:
+Here are some open source projects I maintain:
 
 | Project                                                          | Release                                                                                                                                                                                                                                                                                  |
 | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [VoltX](https://github.com/stormlightlabs/volt)                  | [![NPM Version](https://img.shields.io/npm/v/voltx.js?style=flat&logo=npm&color=red)](https://www.npmjs.com/package/voltx.js) [![JSR Version](https://img.shields.io/jsr/v/%40voltx/core?style=flat&logo=jsr&logoColor=white&labelColor=black&color=yellow)](https://jsr.io/@voltx/core) |
-| [Verdant](https://github.com/desertthunder/verdant-vscode-theme) | [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/DesertThunder.verdant-theme?logo=vscodium&logoColor=green&color=blue)](https://marketplace.visualstudio.com/items?itemName=DesertThunder.verdant-theme)                                         |
+| [Beacon](https://github.com/stormlightlabs/beacon)               |                                                                                                                                                                                                                                                                                          |
+| [NoteLeaf](https://github.com/stormlightlabs/noteleaf)           |                                                                                                                                                                                                                                                                                          |
 | [parserst](https://github.com/stormlightlabs/parserst)           | [![Crates.io Version](https://img.shields.io/crates/v/parserst)](https://crates.io/crates/parserst)                                                                                                                                                                                      |
+| [Verdant](https://github.com/desertthunder/verdant-vscode-theme) | [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/DesertThunder.verdant-theme?logo=vscodium&logoColor=green&color=blue)](https://marketplace.visualstudio.com/items?itemName=DesertThunder.verdant-theme)                                         |
 
 #### Contact Information
 
