@@ -1,50 +1,23 @@
-### Owais J :zap:
+<center>
 
-Hey there! I'm Owais, a software engineer from Austin, TX with a little over half a
-decade of experience working in or education. In a past life I had dreams of being an
-infectious disease researcher, but quickly found that solving problems with programming
-and trying to build good software are near infinite wells of joy for me.
+        d8b                                                     d8b                               d8b                 
+        88P                                   d8P         d8P   ?88                               88P                 
+        d88                                 d888888P    d888888P  88b                             d88                  
+    d888888   d8888b .d888b, d8888b  88bd88b  ?88'        ?88'    888888b ?88   d8P  88bd88b  d888888   d8888b  88bd88b
+    d8P' ?88  d8b_,dP ?8b,   d8b_,dP  88P'  `  88P         88P     88P `?8bd88   88   88P' ?8bd8P' ?88  d8b_,dP  88P'  `
+    88b  ,88b 88b       `?8b 88b     d88       88b         88b    d88   88P?8(  d88  d88   88P88b  ,88b 88b     d88     
+    `?88P'`88b`?888P'`?888P' `?888P'd88'       `?8b        `?8b  d88'   88b`?88P'?8bd88'   88b`?88P'`88b`?888P'd88'     
 
-Right now I'm working on a few projects for a company I've started, called
-[Stormlight Labs](https://stormlightlabs.org) where I'm trying to build software that
-helps people [take care](https://volkara.stormlightlabs.org) of themselves and each other
-(with some libraries and developer [tools](https://github.com/stormlightlabs/volt)
-mixed in).
+</center>
 
-Here are some open source projects I maintain:
+#### Open Source
 
 | Project                                                          | Release                                                                                                                                                                                                                                                                                  |
 | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [VoltX](https://github.com/stormlightlabs/volt)                  | [![NPM Version](https://img.shields.io/npm/v/voltx.js?style=flat&logo=npm&color=red)](https://www.npmjs.com/package/voltx.js) [![JSR Version](https://img.shields.io/jsr/v/%40voltx/core?style=flat&logo=jsr&logoColor=white&labelColor=black&color=yellow)](https://jsr.io/@voltx/core) |
 | [Beacon](https://github.com/stormlightlabs/beacon)               |                                                                                                                                                                                                                                                                                          |
-| [NoteLeaf](https://github.com/stormlightlabs/noteleaf)           |                                                                                                                                                                                                                                                                                          |
-| [parserst](https://github.com/stormlightlabs/parserst)           | [![Crates.io Version](https://img.shields.io/crates/v/parserst)](https://crates.io/crates/parserst)                                                                                                                                                                                      |
-| [Verdant](https://github.com/desertthunder/verdant-vscode-theme) | [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/DesertThunder.verdant-theme?logo=vscodium&logoColor=green&color=blue)](https://marketplace.visualstudio.com/items?itemName=DesertThunder.verdant-theme)                                         |
-
-#### Contact Information
-
-I'm currently seeking a new role! Check out my [resume](/data/resume.txt) and if you'd
-like to chat, my email address is `jamil.owais <at> gmail [dot] com`.
-
-#### Current Projects
-
-- [Beacon](https://github.com/stormlightlabs/beacon): A Python LSP & HM type system built with Rust
-- [VoltX](https://github.com/stormlightlabs/volt): signal-based reactive framework (<15KB)
-    enabling declarative HTML-driven UIs
+| [Noteleaf](https://tangled.org/deserthunder.dev/noteleaf)        |                                                                                                                                                                                                                                                                                          |
 
 #### Writing
 
-Most days I find myself writing a fair bit, mostly to do a good impression of
-[John Carmack](https://garbagecollected.org/2017/10/24/the-carmack-plan/)'s
-[plan](https://github.com/ESWAT/john-carmack-plan-archive/) files.
-
-You can view those on my [blog](https://desertthunder.dev). Some of my notes and reference
-material is recorded/planted in my [digital garden](https://desertthunder.github.io/garden).
-
----
-
-<center>
-
-[![My Skills](https://skillicons.dev/icons?i=neovim,arch,python,svelte,rust,go)](https://skillicons.dev)
-
-</center>
+[Electric Dev Logs](https://desertthunder.leaflet.pub) • [Pattern Matched](https://patternmatched.substack.com/) • [digital garden](https://desertthunder.github.io/garden)
