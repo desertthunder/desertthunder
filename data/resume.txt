@@ -11,17 +11,18 @@ RELEVANT EXPERIENCE
 STORMLIGHT LABS                                                       AUSTIN, TX
 Founder and Lead Software Engineer                                2024 - Present
 
-* Lead Engineer of a mental health & open-source focused startup, architecting 
-  scalable systems and leading development from concept to production. 
+* Lead Engineer of a mental health & open-source focused startup, architecting
+  scalable systems and leading development from concept to production.
 
-* Translated complex technical and product requirements into intuitive, performant, 
-  and maintainable software solutions grounded in research and user feedback.
+* Translated complex technical and product requirements into intuitive,
+  performant, and maintainable software solutions grounded in research and user
+  feedback.
 
-* Developed and optimized multi-platform applications and open-source libraries 
-  using Svelte, Rust, Go, and Flutter, applying modern software design patterns, 
+* Developed and optimized multi-platform applications and open-source libraries
+  using Svelte, Rust, Go, and Flutter, applying modern software design patterns,
   concurrency models, and profiling for high reliability, and performance.
 
-  * See Volkara & VoltX for more details
+  * See Volkara, Beacon & VoltX for more details
 
 --------------------------------------------------------------------------------
 EDLINK                                                                AUSTIN, TX
@@ -73,18 +74,62 @@ PROJECTS
 
 --------------------------------------------------------------------------------
 Volkara                                               volkara.stormlightlabs.org
-Cross-platform ADHD focused productivity app                    
+Cross-platform ADHD focused productivity app
 
-* Deployed a local-first SvelteKit application using PGlite and Drizzle, 
+* Deployed a local-first SvelteKit application using PGlite and Drizzle,
   achieving sub-100 ms offline UX with deterministic data consistency.
 
-* Designed and implemented a premium sync engine with queued operations, SHA-256 
-  diffing, and a network-aware worker that batches, retries, and deduplicates 
+* Designed and implemented a premium sync engine with queued operations, SHA-256
+  diffing, and a network-aware worker that batches, retries, and deduplicates
   requests for resilience.
-  
-* Unified observability across web and worker contexts via session-scoped & GDPR 
-  compliant telemetry persisted to IndexedDB and streamed to APIs for real-time 
+
+* Unified observability across web and worker contexts via session-scoped & GDPR
+  compliant telemetry persisted to IndexedDB and streamed to APIs for real-time
   diagnostics.
+
+--------------------------------------------------------------------------------
+Beacon                                          github.com/stormlightlabs/beacon
+Python Type Checker and Language Server              stormlightlabs.github.io/beacon
+
+* Architected Rust-based LSP implementation with Hindley-Milner type inference
+  engine supporting automatic generalization, gradual typing, protocol
+  satisfaction validation, and variance checking
+
+* Implemented comprehensive code intelligence including real-time diagnostics,
+  type narrowing via control flow analysis, hover information with inferred
+  types, and workspace-wide symbol search with fuzzy matching
+
+* Built refactoring suite with workspace-wide renaming validation, automated
+  quick fixes for unused imports and Optional handling, protocol method
+  implementation assistance, and type annotation generation
+
+* Designed incremental analysis architecture with multi-layer caching for fast
+  feedback loops, supporting VS Code, Zed, Neovim, and Helix via LSP
+
+* Integrated Typeshed for standard library stubs with semantic highlighting,
+  inlay hints, and dual operational modes (stdio/TCP) for debugging
+
+--------------------------------------------------------------------------------
+Baseball API                               github.com/stormlightlabs/baseball
+Comprehensive Baseball Statistics REST API
+
+* Built RESTful API with Go and PostgreSQL serving historical data from Lahman
+  Database and Retrosheet with pitch-level granularity and play-by-play
+  tracking
+
+* Implemented advanced analytics including win probability calculations from
+  2,143 unique game states, player streak analysis, and batting splits by
+  multiple dimensions
+
+* Designed trigger-maintained search vectors with GIN/trigram indexes enabling
+  sub-millisecond natural language game queries supporting team names, years,
+  and postseason keywords
+
+* Integrated OAuth authentication (GitHub, Codeberg) with role-based access 
+  control, API key generation, and bearer token session management
+
+* Architected ETL pipeline with materialized views for performance optimization 
+  and comprehensive Swagger/OpenAPI documentation
 
 --------------------------------------------------------------------------------
 VoltX.JS                                          github.com/stormlightlabs/volt
@@ -100,8 +145,8 @@ Lightweight Reactive Framework                     stormlightlabs.github.io/volt
 * Built SSR/hydration layer with scope serialization and plugin architecture
   for state persistence (localStorage/IndexedDB) and URL state sync
 
-* Designed & implemented classless css library based on Edward Tufte's guidelines
-  and typography best practices
+* Designed & implemented classless css library based on Edward Tufte's
+  guidelines and typography best practices
 
 * Dependency-free TypeScript codebase maintained with 95% test coverage and
   automated registry publishing

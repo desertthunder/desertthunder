@@ -7,4 +7,4 @@ Software engineer & writer from Austin, TX
 
 #### Writing
 
-[Dev Logs](https://desertthunder.leaflet.pub) • [Blog](https://patternmatched.substack.com/) • [garden](https://desertthunder.github.io/garden)
+[Dev Logs](https://desertthunder.leaflet.pub) • [Essays](https://patternmatched.substack.com/) • [garden](https://desertthunder.github.io/garden)
