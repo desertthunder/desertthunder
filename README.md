@@ -3,7 +3,7 @@
 
 Software engineer & writer from Austin, TX
 
-[open to](linkedin.com/in/owais-jamil) [work](./data/resume.txt)
+[open to](https://linkedin.com/in/owais-jamil) [work](./data/resume.txt)
 
 #### Software
 
